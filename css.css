@@ -15,6 +15,10 @@ li {
 	list-style-position: inside;
 	margin-left: -40px;
 }
+a {
+	color: black;
+	text-decoration: none;
+}
 .extrabottomborder {
 	border-width: 2px 0px 4px 0px; 
 	border-style: solid; 
@@ -74,6 +78,7 @@ li {
 	border-width: 0px 0px 0px 3px;
 	border-color: black;
 	z-index: 2;
+	color: black;
 }
 .Artikkeli1 {
 	width: 75%;
