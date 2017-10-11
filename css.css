@@ -64,11 +64,14 @@ li {
 	z-index: 2;
 }
 .Artikkeli1 {
-	width: 73%;
+	width: 75%;
 	position: absolute;
-	left: 10;
+	left: 0;
 	top: 155;
 	text-decoration: none;
+	background-image: url('gradiant1.png');
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
 }
 .center {
 	display: block;
