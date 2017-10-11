@@ -1,0 +1,85 @@
+h1 {
+	font-family: "Arial";
+}
+h2 {
+	font-family: "Arial";
+}
+ol {
+	border-style: solid;
+	border-color: black;
+	border-width: 2px 0px 2px 0px;
+}
+li {
+	font-family: "Arial";
+	font-size: 20;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px 0px 2px 0px;
+	list-style-position: inside;
+	margin-left: -40px;
+}
+.logokuva {
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	border-style: solid;
+	border-width: 5px 0px 5px 0px;
+	border-color: black;
+}
+.linkkipalkki {
+	background-color: #E00600;
+	position: absolute;
+	top: 110;
+	left: 0;
+	right: 0;
+	color: white;
+	font-size: 30;
+	border-style: solid;
+	border-width: 0px 0px 5px 0px;
+	border-color: black;
+}
+.inactive {
+	color: white;
+	font-family: "Comic Sans MS";
+	z-index: 3;
+	text-decoration: none;
+}
+.active {
+	color: white;
+	font-family: "Comic Sans MS";
+	z-index: 3;
+}
+.sidebar {
+	width: 25%;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 155;
+	background-color: #FFDA00;
+	border-style: solid;
+	border-width: 0px 0px 0px 3px;
+	border-color: black;
+	z-index: 2;
+}
+.Artikkeli1 {
+	width: 73%;
+	position: absolute;
+	left: 10;
+	top: 155;
+	text-decoration: none;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.luelisää {
+	background-color: #aaaaaa;
+	float: right;
+	z-index: 1;
+	border-width: 0px 5px 0px 5px;
+	border-style: solid;
+	border-color: #aaaaaa;
+}
