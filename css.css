@@ -63,10 +63,9 @@ a {
 	text-decoration: none;
 }
 .active {
-	color: white;
+	color: #AAAAAA;
 	font-family: "Comic Sans MS";
 	z-index: 3;
-	text-decoration: underline;
 }
 .sidebar {
 	width: 25%;
