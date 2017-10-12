@@ -72,7 +72,7 @@ p {
 }
 .sidebar {
 	width: 25%;
-	height: 99999999;
+	height: 1799;
 	position: absolute;
 	right: 0;
 	top: 155;
@@ -83,7 +83,7 @@ p {
 	z-index: 2;
 	color: black;
 }
-.Artikkeli1 {
+.Artikkelit {
 	width: 75%;
 	position: absolute;
 	left: 0;
@@ -92,9 +92,21 @@ p {
 	background-image: url('gradiant1.png');
 	background-position: 0px 0px;
 	background-repeat: repeat-x;
+}
+.Artikkeli1 {
+	padding: 0px 0px 80px 0px;
 	border-width: 2px 0px 2px 0px; 
 	border-style: solid; 
 	border-color: black;
+}
+.Artikkeli2 {
+	padding: 0px 0px 80px 0px;
+	border-width: 2px 0px 2px 0px; 
+	border-style: solid; 
+	border-color: black;
+	background-image: url('gradiant1.png');
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
 }
 .center {
 	display: block;
